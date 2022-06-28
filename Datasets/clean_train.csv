@@ -1,0 +1,892 @@
+,PassengerId,Survived,Pclass,Sex,Age,SibSp,Parch,Fare,Cabin,Lname,NamePrefix
+0,1,0,3,male,Student,1,0,7.25,U,"Braund,",Mr.
+1,2,1,1,female,Adult,1,0,71.2833,C,"Cumings,",Mrs.
+2,3,1,3,female,Young Adult,0,0,7.925,U,"Heikkinen,",Miss.
+3,4,1,1,female,Young Adult,1,0,53.1,C,"Futrelle,",Mrs.
+4,5,0,3,male,Young Adult,0,0,8.05,U,"Allen,",Mr.
+5,6,0,3,male,Student,0,0,8.4583,U,"Moran,",Mr.
+6,7,0,1,male,Adult,0,0,51.8625,E,"McCarthy,",Mr.
+7,8,0,3,male,Baby,3,1,21.075,U,"Palsson,",Master.
+8,9,1,3,female,Young Adult,0,2,11.1333,U,"Johnson,",Mrs.
+9,10,1,2,female,Teenager,1,0,30.0708,U,"Nasser,",Mrs.
+10,11,1,3,female,Baby,1,1,16.7,G,"Sandstrom,",Miss.
+11,12,1,1,female,Adult,0,0,26.55,C,"Bonnell,",Miss.
+12,13,0,3,male,Student,0,0,8.05,U,"Saundercock,",Mr.
+13,14,0,3,male,Adult,1,5,31.275,U,"Andersson,",Mr.
+14,15,0,3,female,Teenager,0,0,7.8542,U,"Vestrom,",Miss.
+15,16,1,2,female,Adult,0,0,16.0,U,"Hewlett,",Mrs.
+16,17,0,3,male,Baby,4,1,29.125,U,"Rice,",Master.
+17,18,1,2,male,Student,0,0,13.0,U,"Williams,",Mr.
+18,19,0,3,female,Young Adult,1,0,18.0,U,Vander,"Planke,"
+19,20,1,3,female,Student,0,0,7.225,U,"Masselmani,",Mrs.
+20,21,0,2,male,Young Adult,0,0,26.0,U,"Fynney,",Mr.
+21,22,1,2,male,Young Adult,0,0,13.0,D,"Beesley,",Mr.
+22,23,1,3,female,Teenager,0,0,8.0292,U,"McGowan,",Miss.
+23,24,1,1,male,Young Adult,0,0,35.5,A,"Sloper,",Mr.
+24,25,0,3,female,Child,3,1,21.075,U,"Palsson,",Miss.
+25,26,1,3,female,Adult,1,5,31.3875,U,"Asplund,",Mrs.
+26,27,0,3,male,Student,0,0,7.225,U,"Emir,",Mr.
+27,28,0,1,male,Student,3,2,263.0,C,"Fortune,",Mr.
+28,29,1,3,female,Student,0,0,7.8792,U,"O'Dwyer,",Miss.
+29,30,0,3,male,Student,0,0,7.8958,U,"Todoroff,",Mr.
+30,31,0,1,male,Adult,0,0,27.7208,U,"Uruchurtu,",Don.
+31,32,1,1,female,Student,1,0,146.5208,B,"Spencer,",Mrs.
+32,33,1,3,female,Student,0,0,7.75,U,"Glynn,",Miss.
+33,34,0,2,male,Senior,0,0,10.5,U,"Wheadon,",Mr.
+34,35,0,1,male,Young Adult,1,0,82.1708,U,"Meyer,",Mr.
+35,36,0,1,male,Adult,1,0,52.0,U,"Holverson,",Mr.
+36,37,1,3,male,Student,0,0,7.2292,U,"Mamee,",Mr.
+37,38,0,3,male,Student,0,0,8.05,U,"Cann,",Mr.
+38,39,0,3,female,Teenager,2,0,18.0,U,Vander,"Planke,"
+39,40,1,3,female,Teenager,1,0,11.2417,U,"Nicola-Yarred,",Miss.
+40,41,0,3,female,Adult,1,0,9.475,U,"Ahlin,",Mrs.
+41,42,0,2,female,Young Adult,1,0,21.0,U,"Turpin,",Mrs.
+42,43,0,3,male,Student,0,0,7.8958,U,"Kraeff,",Mr.
+43,44,1,2,female,Baby,1,2,41.5792,U,"Laroche,",Miss.
+44,45,1,3,female,Student,0,0,7.8792,U,"Devaney,",Miss.
+45,46,0,3,male,Student,0,0,8.05,U,"Rogers,",Mr.
+46,47,0,3,male,Student,1,0,15.5,U,"Lennon,",Mr.
+47,48,1,3,female,Student,0,0,7.75,U,"O'Driscoll,",Miss.
+48,49,0,3,male,Student,2,0,21.6792,U,"Samaan,",Mr.
+49,50,0,3,female,Teenager,1,0,17.8,U,"Arnold-Franchi,",Mrs.
+50,51,0,3,male,Child,4,1,39.6875,U,"Panula,",Master.
+51,52,0,3,male,Student,0,0,7.8,U,"Nosworthy,",Mr.
+52,53,1,1,female,Adult,1,0,76.7292,D,"Harper,",Mrs.
+53,54,1,2,female,Young Adult,1,0,26.0,U,"Faunthorpe,",Mrs.
+54,55,0,1,male,Senior,0,1,61.9792,B,"Ostby,",Mr.
+55,56,1,1,male,Student,0,0,35.5,C,"Woolner,",Mr.
+56,57,1,2,female,Student,0,0,10.5,U,"Rugg,",Miss.
+57,58,0,3,male,Young Adult,0,0,7.2292,U,"Novel,",Mr.
+58,59,1,2,female,Baby,1,2,27.75,U,"West,",Miss.
+59,60,0,3,male,Child,5,2,46.9,U,"Goodwin,",Master.
+60,61,0,3,male,Student,0,0,7.2292,U,"Sirayanian,",Mr.
+61,62,1,1,female,Adult,0,0,80.0,B,"Icard,",Miss.
+62,63,0,1,male,Adult,1,0,83.475,C,"Harris,",Mr.
+63,64,0,3,male,Baby,3,2,27.9,U,"Skoog,",Master.
+64,65,0,1,male,Student,0,0,27.7208,U,"Stewart,",Mr.
+65,66,1,3,male,Student,1,1,15.2458,U,"Moubarek,",Master.
+66,67,1,2,female,Young Adult,0,0,10.5,F,"Nye,",Mrs.
+67,68,0,3,male,Student,0,0,8.1583,U,"Crease,",Mr.
+68,69,1,3,female,Teenager,4,2,7.925,U,"Andersson,",Miss.
+69,70,0,3,male,Young Adult,2,0,8.6625,U,"Kink,",Mr.
+70,71,0,2,male,Young Adult,0,0,10.5,U,"Jenkin,",Mr.
+71,72,0,3,female,Teenager,5,2,46.9,U,"Goodwin,",Miss.
+72,73,0,2,male,Student,0,0,73.5,U,"Hood,",Mr.
+73,74,0,3,male,Young Adult,1,0,14.4542,U,"Chronopoulos,",Mr.
+74,75,1,3,male,Young Adult,0,0,56.4958,U,"Bing,",Mr.
+75,76,0,3,male,Student,0,0,7.65,F,"Moen,",Mr.
+76,77,0,3,male,Student,0,0,7.8958,U,"Staneff,",Mr.
+77,78,0,3,male,Student,0,0,8.05,U,"Moutal,",Mr.
+78,79,1,2,male,Baby,0,2,29.0,U,"Caldwell,",Master.
+79,80,1,3,female,Young Adult,0,0,12.475,U,"Dowdell,",Miss.
+80,81,0,3,male,Student,0,0,9.0,U,"Waelens,",Mr.
+81,82,1,3,male,Young Adult,0,0,9.5,U,"Sheerlinck,",Mr.
+82,83,1,3,female,Student,0,0,7.7875,U,"McDermott,",Miss.
+83,84,0,1,male,Young Adult,0,0,47.1,U,"Carrau,",Mr.
+84,85,1,2,female,Teenager,0,0,10.5,U,"Ilett,",Miss.
+85,86,1,3,female,Young Adult,3,0,15.85,U,"Backstrom,",Mrs.
+86,87,0,3,male,Teenager,1,3,34.375,U,"Ford,",Mr.
+87,88,0,3,male,Student,0,0,8.05,U,"Slocovski,",Mr.
+88,89,1,1,female,Student,3,2,263.0,C,"Fortune,",Miss.
+89,90,0,3,male,Student,0,0,8.05,U,"Celotti,",Mr.
+90,91,0,3,male,Young Adult,0,0,8.05,U,"Christmann,",Mr.
+91,92,0,3,male,Student,0,0,7.8542,U,"Andreasson,",Mr.
+92,93,0,1,male,Adult,1,0,61.175,E,"Chaffee,",Mr.
+93,94,0,3,male,Young Adult,1,2,20.575,U,"Dean,",Mr.
+94,95,0,3,male,Adult,0,0,7.25,U,"Coxon,",Mr.
+95,96,0,3,male,Student,0,0,8.05,U,"Shorney,",Mr.
+96,97,0,1,male,Senior,0,0,34.6542,A,"Goldschmidt,",Mr.
+97,98,1,1,male,Student,0,1,63.3583,D,"Greenfield,",Mr.
+98,99,1,2,female,Young Adult,0,1,23.0,U,"Doling,",Mrs.
+99,100,0,2,male,Young Adult,1,0,26.0,U,"Kantor,",Mr.
+100,101,0,3,female,Young Adult,0,0,7.8958,U,"Petranec,",Miss.
+101,102,0,3,male,Student,0,0,7.8958,U,"Petroff,",Mr.
+102,103,0,1,male,Student,0,1,77.2875,D,"White,",Mr.
+103,104,0,3,male,Young Adult,0,0,8.6542,U,"Johansson,",Mr.
+104,105,0,3,male,Adult,2,0,7.925,U,"Gustafsson,",Mr.
+105,106,0,3,male,Young Adult,0,0,7.8958,U,"Mionoff,",Mr.
+106,107,1,3,female,Student,0,0,7.65,U,"Salkjelsvik,",Miss.
+107,108,1,3,male,Student,0,0,7.775,U,"Moss,",Mr.
+108,109,0,3,male,Adult,0,0,7.8958,U,"Rekic,",Mr.
+109,110,1,3,female,Student,1,0,24.15,U,"Moran,",Miss.
+110,111,0,1,male,Adult,0,0,52.0,C,"Porter,",Mr.
+111,112,0,3,female,Teenager,1,0,14.4542,U,"Zabour,",Miss.
+112,113,0,3,male,Student,0,0,8.05,U,"Barton,",Mr.
+113,114,0,3,female,Student,1,0,9.825,U,"Jussila,",Miss.
+114,115,0,3,female,Teenager,0,0,14.4583,U,"Attalah,",Miss.
+115,116,0,3,male,Student,0,0,7.925,U,"Pekoniemi,",Mr.
+116,117,0,3,male,Senior,0,0,7.75,U,"Connors,",Mr.
+117,118,0,2,male,Young Adult,1,0,21.0,U,"Turpin,",Mr.
+118,119,0,1,male,Student,0,1,247.5208,B,"Baxter,",Mr.
+119,120,0,3,female,Baby,4,2,31.275,U,"Andersson,",Miss.
+120,121,0,2,male,Student,2,0,73.5,U,"Hickman,",Mr.
+121,122,0,3,male,Student,0,0,8.05,U,"Moore,",Mr.
+122,123,0,2,male,Young Adult,1,0,30.0708,U,"Nasser,",Mr.
+123,124,1,2,female,Young Adult,0,0,13.0,E,"Webber,",Miss.
+124,125,0,1,male,Adult,0,1,77.2875,D,"White,",Mr.
+125,126,1,3,male,Child,1,0,11.2417,U,"Nicola-Yarred,",Master.
+126,127,0,3,male,Student,0,0,7.75,U,"McMahon,",Mr.
+127,128,1,3,male,Student,0,0,7.1417,U,"Madsen,",Mr.
+128,129,1,3,female,Student,1,1,22.3583,F,"Peter,",Miss.
+129,130,0,3,male,Adult,0,0,6.975,U,"Ekstrom,",Mr.
+130,131,0,3,male,Young Adult,0,0,7.8958,U,"Drazenoic,",Mr.
+131,132,0,3,male,Student,0,0,7.05,U,"Coelho,",Mr.
+132,133,0,3,female,Adult,1,0,14.5,U,"Robins,",Mrs.
+133,134,1,2,female,Young Adult,1,0,26.0,U,"Weisz,",Mrs.
+134,135,0,2,male,Student,0,0,13.0,U,"Sobey,",Mr.
+135,136,0,2,male,Student,0,0,15.0458,U,"Richard,",Mr.
+136,137,1,1,female,Student,0,2,26.2833,D,"Newsom,",Miss.
+137,138,0,1,male,Adult,1,0,53.1,C,"Futrelle,",Mr.
+138,139,0,3,male,Teenager,0,0,9.2167,U,"Osen,",Mr.
+139,140,0,1,male,Student,0,0,79.2,B,"Giglio,",Mr.
+140,141,0,3,female,Student,0,2,15.2458,U,"Boulos,",Mrs.
+141,142,1,3,female,Student,0,0,7.75,U,"Nysten,",Miss.
+142,143,1,3,female,Student,1,0,15.85,U,"Hakkarainen,",Mrs.
+143,144,0,3,male,Student,0,0,6.75,U,"Burke,",Mr.
+144,145,0,2,male,Teenager,0,0,11.5,U,"Andrew,",Mr.
+145,146,0,2,male,Student,1,1,36.75,U,"Nicholls,",Mr.
+146,147,1,3,male,Young Adult,0,0,7.7958,U,"Andersson,",Mr.
+147,148,0,3,female,Child,2,2,34.375,U,"Ford,",Miss.
+148,149,0,2,male,Adult,0,2,26.0,F,"Navratil,",Mr.
+149,150,0,2,male,Adult,0,0,13.0,U,"Byles,",Rev.
+150,151,0,2,male,Adult,0,0,12.525,U,"Bateman,",Rev.
+151,152,1,1,female,Student,1,0,66.6,C,"Pears,",Mrs.
+152,153,0,3,male,Adult,0,0,8.05,U,"Meo,",Mr.
+153,154,0,3,male,Adult,0,2,14.5,U,van,"Billiard,"
+154,155,0,3,male,Student,0,0,7.3125,U,"Olsen,",Mr.
+155,156,0,1,male,Adult,0,1,61.3792,U,"Williams,",Mr.
+156,157,1,3,female,Teenager,0,0,7.7333,U,"Gilnagh,",Miss.
+157,158,0,3,male,Young Adult,0,0,8.05,U,"Corn,",Mr.
+158,159,0,3,male,Student,0,0,8.6625,U,"Smiljanic,",Mr.
+159,160,0,3,male,Student,8,2,69.55,U,"Sage,",Master.
+160,161,0,3,male,Adult,0,1,16.1,U,"Cribb,",Mr.
+161,162,1,2,female,Adult,0,0,15.75,U,"Watt,",Mrs.
+162,163,0,3,male,Young Adult,0,0,7.775,U,"Bengtsson,",Mr.
+163,164,0,3,male,Teenager,0,0,8.6625,U,"Calic,",Mr.
+164,165,0,3,male,Baby,4,1,39.6875,U,"Panula,",Master.
+165,166,1,3,male,Child,0,2,20.525,U,"Goldsmith,",Master.
+166,167,1,1,female,Student,0,1,55.0,E,"Chibnall,",Mrs.
+167,168,0,3,female,Adult,1,4,27.9,U,"Skoog,",Mrs.
+168,169,0,1,male,Student,0,0,25.925,U,"Baumann,",Mr.
+169,170,0,3,male,Young Adult,0,0,56.4958,U,"Ling,",Mr.
+170,171,0,1,male,Senior,0,0,33.5,B,Van,der
+171,172,0,3,male,Baby,4,1,29.125,U,"Rice,",Master.
+172,173,1,3,female,Baby,1,1,11.1333,U,"Johnson,",Miss.
+173,174,0,3,male,Student,0,0,7.925,U,"Sivola,",Mr.
+174,175,0,1,male,Adult,0,0,30.6958,A,"Smith,",Mr.
+175,176,0,3,male,Teenager,1,1,7.8542,U,"Klasen,",Mr.
+176,177,0,3,male,Student,3,1,25.4667,U,"Lefebre,",Master.
+177,178,0,1,female,Adult,0,0,28.7125,C,"Isham,",Miss.
+178,179,0,2,male,Young Adult,0,0,13.0,U,"Hale,",Mr.
+179,180,0,3,male,Adult,0,0,0.0,U,"Leonard,",Mr.
+180,181,0,3,female,Student,8,2,69.55,U,"Sage,",Miss.
+181,182,0,2,male,Student,0,0,15.05,U,"Pernot,",Mr.
+182,183,0,3,male,Child,4,2,31.3875,U,"Asplund,",Master.
+183,184,1,2,male,Baby,2,1,39.0,F,"Becker,",Master.
+184,185,1,3,female,Baby,0,2,22.025,U,"Kink-Heilmann,",Miss.
+185,186,0,1,male,Student,0,0,50.0,A,"Rood,",Mr.
+186,187,1,3,female,Student,1,0,15.5,U,"O'Brien,",Mrs.
+187,188,1,1,male,Adult,0,0,26.55,U,"Romaine,",Mr.
+188,189,0,3,male,Adult,1,1,15.5,U,"Bourke,",Mr.
+189,190,0,3,male,Adult,0,0,7.8958,U,"Turcin,",Mr.
+190,191,1,2,female,Young Adult,0,0,13.0,U,"Pinsky,",Mrs.
+191,192,0,2,male,Student,0,0,13.0,U,"Carbines,",Mr.
+192,193,1,3,female,Student,1,0,7.8542,U,"Andersen-Jensen,",Miss.
+193,194,1,2,male,Baby,1,1,26.0,F,"Navratil,",Master.
+194,195,1,1,female,Adult,0,0,27.7208,B,"Brown,",Mrs.
+195,196,1,1,female,Adult,0,0,146.5208,B,"Lurette,",Miss.
+196,197,0,3,male,Student,0,0,7.75,U,"Mernagh,",Mr.
+197,198,0,3,male,Adult,0,1,8.4042,U,"Olsen,",Mr.
+198,199,1,3,female,Student,0,0,7.75,U,"Madigan,",Miss.
+199,200,0,2,female,Student,0,0,13.0,U,"Yrois,",Miss.
+200,201,0,3,male,Young Adult,0,0,9.5,U,Vande,"Walle,"
+201,202,0,3,male,Student,8,2,69.55,U,"Sage,",Mr.
+202,203,0,3,male,Young Adult,0,0,6.4958,U,"Johanson,",Mr.
+203,204,0,3,male,Adult,0,0,7.225,U,"Youseff,",Mr.
+204,205,1,3,male,Teenager,0,0,8.05,U,"Cohen,",Mr.
+205,206,0,3,female,Baby,0,1,10.4625,G,"Strom,",Miss.
+206,207,0,3,male,Young Adult,1,0,15.85,U,"Backstrom,",Mr.
+207,208,1,3,male,Young Adult,0,0,18.7875,U,"Albimona,",Mr.
+208,209,1,3,female,Teenager,0,0,7.75,U,"Carr,",Miss.
+209,210,1,1,male,Adult,0,0,31.0,A,"Blank,",Mr.
+210,211,0,3,male,Student,0,0,7.05,U,"Ali,",Mr.
+211,212,1,2,female,Young Adult,0,0,21.0,U,"Cameron,",Miss.
+212,213,0,3,male,Student,0,0,7.25,U,"Perkin,",Mr.
+213,214,0,2,male,Young Adult,0,0,13.0,U,"Givard,",Mr.
+214,215,0,3,male,Student,1,0,7.75,U,"Kiernan,",Mr.
+215,216,1,1,female,Young Adult,1,0,113.275,D,"Newell,",Miss.
+216,217,1,3,female,Young Adult,0,0,7.925,U,"Honkanen,",Miss.
+217,218,0,2,male,Adult,1,0,27.0,U,"Jacobsohn,",Mr.
+218,219,1,1,female,Young Adult,0,0,76.2917,D,"Bazzani,",Miss.
+219,220,0,2,male,Young Adult,0,0,10.5,U,"Harris,",Mr.
+220,221,1,3,male,Teenager,0,0,8.05,U,"Sunderland,",Mr.
+221,222,0,2,male,Young Adult,0,0,13.0,U,"Bracken,",Mr.
+222,223,0,3,male,Adult,0,0,8.05,U,"Green,",Mr.
+223,224,0,3,male,Student,0,0,7.8958,U,"Nenkoff,",Mr.
+224,225,1,1,male,Adult,1,0,90.0,C,"Hoyt,",Mr.
+225,226,0,3,male,Student,0,0,9.35,U,"Berglund,",Mr.
+226,227,1,2,male,Student,0,0,10.5,U,"Mellors,",Mr.
+227,228,0,3,male,Student,0,0,7.25,U,"Lovell,",Mr.
+228,229,0,2,male,Teenager,0,0,13.0,U,"Fahlstrom,",Mr.
+229,230,0,3,female,Student,3,1,25.4667,U,"Lefebre,",Miss.
+230,231,1,1,female,Young Adult,1,0,83.475,C,"Harris,",Mrs.
+231,232,0,3,male,Young Adult,0,0,7.775,U,"Larsson,",Mr.
+232,233,0,2,male,Adult,0,0,13.5,U,"Sjostedt,",Mr.
+233,234,1,3,female,Baby,4,2,31.3875,U,"Asplund,",Miss.
+234,235,0,2,male,Student,0,0,10.5,U,"Leyson,",Mr.
+235,236,0,3,female,Student,0,0,7.55,U,"Harknett,",Miss.
+236,237,0,2,male,Adult,1,0,26.0,U,"Hold,",Mr.
+237,238,1,2,female,Child,0,2,26.25,U,"Collyer,",Miss.
+238,239,0,2,male,Student,0,0,10.5,U,"Pengelly,",Mr.
+239,240,0,2,male,Young Adult,0,0,12.275,U,"Hunt,",Mr.
+240,241,0,3,female,Student,1,0,14.4542,U,"Zabour,",Miss.
+241,242,1,3,female,Student,1,0,15.5,U,"Murphy,",Miss.
+242,243,0,2,male,Young Adult,0,0,10.5,U,"Coleridge,",Mr.
+243,244,0,3,male,Student,0,0,7.125,U,"Maenpaa,",Mr.
+244,245,0,3,male,Young Adult,0,0,7.225,U,"Attalah,",Mr.
+245,246,0,1,male,Adult,2,0,90.0,C,"Minahan,",Dr.
+246,247,0,3,female,Student,0,0,7.775,U,"Lindahl,",Miss.
+247,248,1,2,female,Student,0,2,14.5,U,"Hamalainen,",Mrs.
+248,249,1,1,male,Adult,1,1,52.5542,D,"Beckwith,",Mr.
+249,250,0,2,male,Adult,1,0,26.0,U,"Carter,",Rev.
+250,251,0,3,male,Student,0,0,7.25,U,"Reed,",Mr.
+251,252,0,3,female,Young Adult,1,1,10.4625,G,"Strom,",Mrs.
+252,253,0,1,male,Senior,0,0,26.55,C,"Stead,",Mr.
+253,254,0,3,male,Young Adult,1,0,16.1,U,"Lobb,",Mr.
+254,255,0,3,female,Adult,0,2,20.2125,U,"Rosblom,",Mrs.
+255,256,1,3,female,Young Adult,0,2,15.2458,U,"Touma,",Mrs.
+256,257,1,1,female,Student,0,0,79.2,U,"Thorne,",Mrs.
+257,258,1,1,female,Young Adult,0,0,86.5,B,"Cherry,",Miss.
+258,259,1,1,female,Young Adult,0,0,512.3292,U,"Ward,",Miss.
+259,260,1,2,female,Adult,0,1,26.0,U,"Parrish,",Mrs.
+260,261,0,3,male,Student,0,0,7.75,U,"Smith,",Mr.
+261,262,1,3,male,Baby,4,2,31.3875,U,"Asplund,",Master.
+262,263,0,1,male,Adult,1,1,79.65,E,"Taussig,",Mr.
+263,264,0,1,male,Adult,0,0,0.0,B,"Harrison,",Mr.
+264,265,0,3,female,Student,0,0,7.75,U,"Henry,",Miss.
+265,266,0,2,male,Adult,0,0,10.5,U,"Reeves,",Mr.
+266,267,0,3,male,Teenager,4,1,39.6875,U,"Panula,",Mr.
+267,268,1,3,male,Student,1,0,7.775,U,"Persson,",Mr.
+268,269,1,1,female,Adult,0,1,153.4625,C,"Graham,",Mrs.
+269,270,1,1,female,Young Adult,0,0,135.6333,C,"Bissette,",Miss.
+270,271,0,1,male,Student,0,0,31.0,U,"Cairns,",Mr.
+271,272,1,3,male,Student,0,0,0.0,U,"Tornquist,",Mr.
+272,273,1,2,female,Adult,0,1,19.5,U,"Mellinger,",Mrs.
+273,274,0,1,male,Adult,0,1,29.7,C,"Natsch,",Mr.
+274,275,1,3,female,Student,0,0,7.75,U,"Healy,",Miss.
+275,276,1,1,female,Senior,1,0,77.9583,D,"Andrews,",Miss.
+276,277,0,3,female,Adult,0,0,7.75,U,"Lindblom,",Miss.
+277,278,0,2,male,Student,0,0,0.0,U,"Parkes,",Mr.
+278,279,0,3,male,Child,4,1,29.125,U,"Rice,",Master.
+279,280,1,3,female,Young Adult,1,1,20.25,U,"Abbott,",Mrs.
+280,281,0,3,male,Senior,0,0,7.75,U,"Duane,",Mr.
+281,282,0,3,male,Young Adult,0,0,7.8542,U,"Olsson,",Mr.
+282,283,0,3,male,Teenager,0,0,9.5,U,de,"Pelsmaeker,"
+283,284,1,3,male,Student,0,0,8.05,U,"Dorking,",Mr.
+284,285,0,1,male,Student,0,0,26.0,A,"Smith,",Mr.
+285,286,0,3,male,Young Adult,0,0,8.6625,U,"Stankovic,",Mr.
+286,287,1,3,male,Young Adult,0,0,9.5,U,de,"Mulder,"
+287,288,0,3,male,Student,0,0,7.8958,U,"Naidenoff,",Mr.
+288,289,1,2,male,Adult,0,0,13.0,U,"Hosono,",Mr.
+289,290,1,3,female,Student,0,0,7.75,U,"Connolly,",Miss.
+290,291,1,1,female,Young Adult,0,0,78.85,U,"Barber,",Miss.
+291,292,1,1,female,Student,1,0,91.0792,B,"Bishop,",Mrs.
+292,293,0,2,male,Adult,0,0,12.875,D,"Levy,",Mr.
+293,294,0,3,female,Student,0,0,8.85,U,"Haas,",Miss.
+294,295,0,3,male,Student,0,0,7.8958,U,"Mineff,",Mr.
+295,296,0,1,male,Student,0,0,27.7208,U,"Lewy,",Mr.
+296,297,0,3,male,Student,0,0,7.2292,U,"Hanna,",Mr.
+297,298,0,1,female,Baby,1,2,151.55,C,"Allison,",Miss.
+298,299,1,1,male,Student,0,0,30.5,C,"Saalfeld,",Mr.
+299,300,1,1,female,Adult,0,1,247.5208,B,"Baxter,",Mrs.
+300,301,1,3,female,Student,0,0,7.75,U,"Kelly,",Miss.
+301,302,1,3,male,Student,2,0,23.25,U,"McCoy,",Mr.
+302,303,0,3,male,Student,0,0,0.0,U,"Johnson,",Mr.
+303,304,1,2,female,Student,0,0,12.35,E,"Keane,",Miss.
+304,305,0,3,male,Student,0,0,8.05,U,"Williams,",Mr.
+305,306,1,1,male,Baby,1,2,151.55,C,"Allison,",Master.
+306,307,1,1,female,Student,0,0,110.8833,U,"Fleming,",Miss.
+307,308,1,1,female,Teenager,1,0,108.9,C,Penasco,y
+308,309,0,2,male,Young Adult,1,0,24.0,U,"Abelson,",Mr.
+309,310,1,1,female,Young Adult,0,0,56.9292,E,"Francatelli,",Miss.
+310,311,1,1,female,Student,0,0,83.1583,C,"Hays,",Miss.
+311,312,1,1,female,Teenager,2,2,262.375,B,"Ryerson,",Miss.
+312,313,0,2,female,Young Adult,1,1,26.0,U,"Lahtinen,",Mrs.
+313,314,0,3,male,Young Adult,0,0,7.8958,U,"Hendekovic,",Mr.
+314,315,0,2,male,Adult,1,1,26.25,U,"Hart,",Mr.
+315,316,1,3,female,Young Adult,0,0,7.8542,U,"Nilsson,",Miss.
+316,317,1,2,female,Student,1,0,26.0,U,"Kantor,",Mrs.
+317,318,0,2,male,Adult,0,0,14.0,U,"Moraweck,",Dr.
+318,319,1,1,female,Young Adult,0,2,164.8667,C,"Wick,",Miss.
+319,320,1,1,female,Adult,1,1,134.5,E,"Spedden,",Mrs.
+320,321,0,3,male,Student,0,0,7.25,U,"Dennis,",Mr.
+321,322,0,3,male,Young Adult,0,0,7.8958,U,"Danoff,",Mr.
+322,323,1,2,female,Young Adult,0,0,12.35,U,"Slayter,",Miss.
+323,324,1,2,female,Student,1,1,29.0,U,"Caldwell,",Mrs.
+324,325,0,3,male,Student,8,2,69.55,U,"Sage,",Mr.
+325,326,1,1,female,Adult,0,0,135.6333,C,"Young,",Miss.
+326,327,0,3,male,Senior,0,0,6.2375,U,"Nysveen,",Mr.
+327,328,1,2,female,Adult,0,0,13.0,D,"Ball,",Mrs.
+328,329,1,3,female,Young Adult,1,1,20.525,U,"Goldsmith,",Mrs.
+329,330,1,1,female,Teenager,0,1,57.9792,B,"Hippach,",Miss.
+330,331,1,3,female,Student,2,0,23.25,U,"McCoy,",Miss.
+331,332,0,1,male,Adult,0,0,28.5,C,"Partner,",Mr.
+332,333,0,1,male,Adult,0,1,153.4625,C,"Graham,",Mr.
+333,334,0,3,male,Teenager,2,0,18.0,U,Vander,"Planke,"
+334,335,1,1,female,Student,1,0,133.65,U,"Frauenthal,",Mrs.
+335,336,0,3,male,Student,0,0,7.8958,U,"Denkoff,",Mr.
+336,337,0,1,male,Young Adult,1,0,66.6,C,"Pears,",Mr.
+337,338,1,1,female,Adult,0,0,134.5,E,"Burns,",Miss.
+338,339,1,3,male,Adult,0,0,8.05,U,"Dahl,",Mr.
+339,340,0,1,male,Adult,0,0,35.5,T,"Blackwell,",Mr.
+340,341,1,2,male,Baby,1,1,26.0,F,"Navratil,",Master.
+341,342,1,1,female,Student,3,2,263.0,C,"Fortune,",Miss.
+342,343,0,2,male,Young Adult,0,0,13.0,U,"Collander,",Mr.
+343,344,0,2,male,Student,0,0,13.0,U,"Sedgwick,",Mr.
+344,345,0,2,male,Adult,0,0,13.0,U,"Fox,",Mr.
+345,346,1,2,female,Student,0,0,13.0,F,"Brown,",Miss.
+346,347,1,2,female,Adult,0,0,13.0,U,"Smith,",Miss.
+347,348,1,3,female,Student,1,0,16.1,U,"Davison,",Mrs.
+348,349,1,3,male,Baby,1,1,15.9,U,"Coutts,",Master.
+349,350,0,3,male,Adult,0,0,8.6625,U,"Dimic,",Mr.
+350,351,0,3,male,Student,0,0,9.225,U,"Odahl,",Mr.
+351,352,0,1,male,Student,0,0,35.0,C,"Williams-Lambert,",Mr.
+352,353,0,3,male,Teenager,1,1,7.2292,U,"Elias,",Mr.
+353,354,0,3,male,Student,1,0,17.8,U,"Arnold-Franchi,",Mr.
+354,355,0,3,male,Student,0,0,7.225,U,"Yousif,",Mr.
+355,356,0,3,male,Young Adult,0,0,9.5,U,Vanden,"Steen,"
+356,357,1,1,female,Student,0,1,55.0,E,"Bowerman,",Miss.
+357,358,0,2,female,Adult,0,0,13.0,U,"Funk,",Miss.
+358,359,1,3,female,Student,0,0,7.8792,U,"McGovern,",Miss.
+359,360,1,3,female,Student,0,0,7.8792,U,"Mockler,",Miss.
+360,361,0,3,male,Adult,1,4,27.9,U,"Skoog,",Mr.
+361,362,0,2,male,Young Adult,1,0,27.7208,U,del,"Carlo,"
+362,363,0,3,female,Adult,0,1,14.4542,U,"Barbara,",Mrs.
+363,364,0,3,male,Young Adult,0,0,7.05,U,"Asim,",Mr.
+364,365,0,3,male,Student,1,0,15.5,U,"O'Brien,",Mr.
+365,366,0,3,male,Young Adult,0,0,7.25,U,"Adahl,",Mr.
+366,367,1,1,female,Adult,1,0,75.25,D,"Warren,",Mrs.
+367,368,1,3,female,Student,0,0,7.2292,U,"Moussa,",Mrs.
+368,369,1,3,female,Student,0,0,7.75,U,"Jermyn,",Miss.
+369,370,1,1,female,Student,0,0,69.3,B,"Aubart,",Mme.
+370,371,1,1,male,Student,1,0,55.4417,E,"Harder,",Mr.
+371,372,0,3,male,Teenager,1,0,6.4958,U,"Wiklund,",Mr.
+372,373,0,3,male,Student,0,0,8.05,U,"Beavan,",Mr.
+373,374,0,1,male,Student,0,0,135.6333,U,"Ringhini,",Mr.
+374,375,0,3,female,Baby,3,1,21.075,U,"Palsson,",Miss.
+375,376,1,1,female,Student,1,0,82.1708,U,"Meyer,",Mrs.
+376,377,1,3,female,Student,0,0,7.25,U,"Landergren,",Miss.
+377,378,0,1,male,Young Adult,0,2,211.5,C,"Widener,",Mr.
+378,379,0,3,male,Student,0,0,4.0125,U,"Betros,",Mr.
+379,380,0,3,male,Student,0,0,7.775,U,"Gustafsson,",Mr.
+380,381,1,1,female,Adult,0,0,227.525,U,"Bidois,",Miss.
+381,382,1,3,female,Baby,0,2,15.7417,U,"Nakid,",Miss.
+382,383,0,3,male,Young Adult,0,0,7.925,U,"Tikkanen,",Mr.
+383,384,1,1,female,Young Adult,1,0,52.0,U,"Holverson,",Mrs.
+384,385,0,3,male,Student,0,0,7.8958,U,"Plotcharsky,",Mr.
+385,386,0,2,male,Teenager,0,0,73.5,U,"Davies,",Mr.
+386,387,0,3,male,Baby,5,2,46.9,U,"Goodwin,",Master.
+387,388,1,2,female,Adult,0,0,13.0,U,"Buss,",Miss.
+388,389,0,3,male,Student,0,0,7.7292,U,"Sadlier,",Mr.
+389,390,1,2,female,Teenager,0,0,12.0,U,"Lehmann,",Miss.
+390,391,1,1,male,Adult,1,2,120.0,B,"Carter,",Mr.
+391,392,1,3,male,Student,0,0,7.7958,U,"Jansson,",Mr.
+392,393,0,3,male,Young Adult,2,0,7.925,U,"Gustafsson,",Mr.
+393,394,1,1,female,Student,1,0,113.275,D,"Newell,",Miss.
+394,395,1,3,female,Student,0,2,16.7,G,"Sandstrom,",Mrs.
+395,396,0,3,male,Student,0,0,7.7958,U,"Johansson,",Mr.
+396,397,0,3,female,Young Adult,0,0,7.8542,U,"Olsson,",Miss.
+397,398,0,2,male,Adult,0,0,26.0,U,"McKane,",Mr.
+398,399,0,2,male,Student,0,0,10.5,U,"Pain,",Dr.
+399,400,1,2,female,Young Adult,0,0,12.65,U,"Trout,",Mrs.
+400,401,1,3,male,Adult,0,0,7.925,U,"Niskanen,",Mr.
+401,402,0,3,male,Young Adult,0,0,8.05,U,"Adams,",Mr.
+402,403,0,3,female,Student,1,0,9.825,U,"Jussila,",Miss.
+403,404,0,3,male,Young Adult,1,0,15.85,U,"Hakkarainen,",Mr.
+404,405,0,3,female,Student,0,0,8.6625,U,"Oreskovic,",Miss.
+405,406,0,2,male,Young Adult,1,0,21.0,U,"Gale,",Mr.
+406,407,0,3,male,Adult,0,0,7.75,U,"Widegren,",Mr.
+407,408,1,2,male,Baby,1,1,18.75,U,"Richards,",Master.
+408,409,0,3,male,Student,0,0,7.775,U,"Birkeland,",Mr.
+409,410,0,3,female,Student,3,1,25.4667,U,"Lefebre,",Miss.
+410,411,0,3,male,Student,0,0,7.8958,U,"Sdycoff,",Mr.
+411,412,0,3,male,Student,0,0,6.8583,U,"Hart,",Mr.
+412,413,1,1,female,Young Adult,1,0,90.0,C,"Minahan,",Miss.
+413,414,0,2,male,Student,0,0,0.0,U,"Cunningham,",Mr.
+414,415,1,3,male,Adult,0,0,7.925,U,"Sundman,",Mr.
+415,416,0,3,female,Student,0,0,8.05,U,"Meek,",Mrs.
+416,417,1,2,female,Young Adult,1,1,32.5,U,"Drew,",Mrs.
+417,418,1,2,female,Teenager,0,2,13.0,U,"Silven,",Miss.
+418,419,0,2,male,Young Adult,0,0,13.0,U,"Matthews,",Mr.
+419,420,0,3,female,Child,0,2,24.15,U,Van,"Impe,"
+420,421,0,3,male,Student,0,0,7.8958,U,"Gheorgheff,",Mr.
+421,422,0,3,male,Student,0,0,7.7333,U,"Charters,",Mr.
+422,423,0,3,male,Young Adult,0,0,7.875,U,"Zimmerman,",Mr.
+423,424,0,3,female,Young Adult,1,1,14.4,U,"Danbom,",Mrs.
+424,425,0,3,male,Teenager,1,1,20.2125,U,"Rosblom,",Mr.
+425,426,0,3,male,Student,0,0,7.25,U,"Wiseman,",Mr.
+426,427,1,2,female,Young Adult,1,0,26.0,U,"Clarke,",Mrs.
+427,428,1,2,female,Student,0,0,26.0,U,"Phillips,",Miss.
+428,429,0,3,male,Student,0,0,7.75,U,"Flynn,",Mr.
+429,430,1,3,male,Young Adult,0,0,8.05,E,"Pickard,",Mr.
+430,431,1,1,male,Young Adult,0,0,26.55,C,"Bjornstrom-Steffansson,",Mr.
+431,432,1,3,female,Student,1,0,16.1,U,"Thorneycroft,",Mrs.
+432,433,1,2,female,Adult,1,0,26.0,U,"Louch,",Mrs.
+433,434,0,3,male,Teenager,0,0,7.125,U,"Kallio,",Mr.
+434,435,0,1,male,Adult,1,0,55.9,E,"Silvey,",Mr.
+435,436,1,1,female,Teenager,1,2,120.0,B,"Carter,",Miss.
+436,437,0,3,female,Student,2,2,34.375,U,"Ford,",Miss.
+437,438,1,2,female,Student,2,3,18.75,U,"Richards,",Mrs.
+438,439,0,1,male,Senior,1,4,263.0,C,"Fortune,",Mr.
+439,440,0,2,male,Young Adult,0,0,10.5,U,"Kvillner,",Mr.
+440,441,1,2,female,Adult,1,1,26.25,U,"Hart,",Mrs.
+441,442,0,3,male,Student,0,0,9.5,U,"Hampe,",Mr.
+442,443,0,3,male,Student,1,0,7.775,U,"Petterson,",Mr.
+443,444,1,2,female,Young Adult,0,0,13.0,U,"Reynaldo,",Ms.
+444,445,1,3,male,Student,0,0,8.1125,U,"Johannesen-Bratthammer,",Mr.
+445,446,1,1,male,Baby,0,2,81.8583,A,"Dodge,",Master.
+446,447,1,2,female,Teenager,0,1,19.5,U,"Mellinger,",Miss.
+447,448,1,1,male,Young Adult,0,0,26.55,U,"Seward,",Mr.
+448,449,1,3,female,Baby,2,1,19.2583,U,"Baclini,",Miss.
+449,450,1,1,male,Adult,0,0,30.5,C,"Peuchen,",Major.
+450,451,0,2,male,Adult,1,2,27.75,U,"West,",Mr.
+451,452,0,3,male,Student,1,0,19.9667,U,"Hagland,",Mr.
+452,453,0,1,male,Young Adult,0,0,27.75,C,"Foreman,",Mr.
+453,454,1,1,male,Adult,1,0,89.1042,C,"Goldenberg,",Mr.
+454,455,0,3,male,Student,0,0,8.05,U,"Peduzzi,",Mr.
+455,456,1,3,male,Young Adult,0,0,7.8958,U,"Jalsevac,",Mr.
+456,457,0,1,male,Senior,0,0,26.55,E,"Millet,",Mr.
+457,458,1,1,female,Student,1,0,51.8625,D,"Kenyon,",Mrs.
+458,459,1,2,female,Adult,0,0,10.5,U,"Toomey,",Miss.
+459,460,0,3,male,Student,0,0,7.75,U,"O'Connor,",Mr.
+460,461,1,1,male,Adult,0,0,26.55,E,"Anderson,",Mr.
+461,462,0,3,male,Young Adult,0,0,8.05,U,"Morley,",Mr.
+462,463,0,1,male,Adult,0,0,38.5,E,"Gee,",Mr.
+463,464,0,2,male,Adult,0,0,13.0,U,"Milling,",Mr.
+464,465,0,3,male,Student,0,0,8.05,U,"Maisner,",Mr.
+465,466,0,3,male,Adult,0,0,7.05,U,"Goncalves,",Mr.
+466,467,0,2,male,Student,0,0,0.0,U,"Campbell,",Mr.
+467,468,0,1,male,Adult,0,0,26.55,U,"Smart,",Mr.
+468,469,0,3,male,Student,0,0,7.725,U,"Scanlan,",Mr.
+469,470,1,3,female,Baby,2,1,19.2583,U,"Baclini,",Miss.
+470,471,0,3,male,Student,0,0,7.25,U,"Keefe,",Mr.
+471,472,0,3,male,Adult,0,0,8.6625,U,"Cacic,",Mr.
+472,473,1,2,female,Young Adult,1,2,27.75,U,"West,",Mrs.
+473,474,1,2,female,Student,0,0,13.7917,D,"Jerwan,",Mrs.
+474,475,0,3,female,Student,0,0,9.8375,U,"Strandberg,",Miss.
+475,476,0,1,male,Student,0,0,52.0,A,"Clifford,",Mr.
+476,477,0,2,male,Young Adult,1,0,21.0,U,"Renouf,",Mr.
+477,478,0,3,male,Young Adult,1,0,7.0458,U,"Braund,",Mr.
+478,479,0,3,male,Student,0,0,7.5208,U,"Karlsson,",Mr.
+479,480,1,3,female,Baby,0,1,12.2875,U,"Hirvonen,",Miss.
+480,481,0,3,male,Child,5,2,46.9,U,"Goodwin,",Master.
+481,482,0,2,male,Student,0,0,0.0,U,"Frost,",Mr.
+482,483,0,3,male,Adult,0,0,8.05,U,"Rouse,",Mr.
+483,484,1,3,female,Senior,0,0,9.5875,U,"Turkula,",Mrs.
+484,485,1,1,male,Student,1,0,91.0792,B,"Bishop,",Mr.
+485,486,0,3,female,Student,3,1,25.4667,U,"Lefebre,",Miss.
+486,487,1,1,female,Young Adult,1,0,90.0,C,"Hoyt,",Mrs.
+487,488,0,1,male,Adult,0,0,29.7,B,"Kent,",Mr.
+488,489,0,3,male,Young Adult,0,0,8.05,U,"Somerton,",Mr.
+489,490,1,3,male,Child,1,1,15.9,U,"Coutts,",Master.
+490,491,0,3,male,Student,1,0,19.9667,U,"Hagland,",Mr.
+491,492,0,3,male,Student,0,0,7.25,U,"Windelov,",Mr.
+492,493,0,1,male,Adult,0,0,30.5,C,"Molson,",Mr.
+493,494,0,1,male,Senior,0,0,49.5042,U,"Artagaveytia,",Mr.
+494,495,0,3,male,Student,0,0,8.05,U,"Stanley,",Mr.
+495,496,0,3,male,Student,0,0,14.4583,U,"Yousseff,",Mr.
+496,497,1,1,female,Adult,1,0,78.2667,D,"Eustis,",Miss.
+497,498,0,3,male,Student,0,0,15.1,U,"Shellard,",Mr.
+498,499,0,1,female,Student,1,2,151.55,C,"Allison,",Mrs.
+499,500,0,3,male,Student,0,0,7.7958,U,"Svensson,",Mr.
+500,501,0,3,male,Teenager,0,0,8.6625,U,"Calic,",Mr.
+501,502,0,3,female,Student,0,0,7.75,U,"Canavan,",Miss.
+502,503,0,3,female,Student,0,0,7.6292,U,"O'Sullivan,",Miss.
+503,504,0,3,female,Adult,0,0,9.5875,U,"Laitinen,",Miss.
+504,505,1,1,female,Teenager,0,0,86.5,B,"Maioni,",Miss.
+505,506,0,1,male,Teenager,1,0,108.9,C,Penasco,y
+506,507,1,2,female,Young Adult,0,2,26.0,U,"Quick,",Mrs.
+507,508,1,1,male,Student,0,0,26.55,U,"Bradley,",Mr.
+508,509,0,3,male,Young Adult,0,0,22.525,U,"Olsen,",Mr.
+509,510,1,3,male,Young Adult,0,0,56.4958,U,"Lang,",Mr.
+510,511,1,3,male,Young Adult,0,0,7.75,U,"Daly,",Mr.
+511,512,0,3,male,Student,0,0,8.05,U,"Webber,",Mr.
+512,513,1,1,male,Adult,0,0,26.2875,E,"McGough,",Mr.
+513,514,1,1,female,Adult,1,0,59.4,U,"Rothschild,",Mrs.
+514,515,0,3,male,Student,0,0,7.4958,U,"Coleff,",Mr.
+515,516,0,1,male,Adult,0,0,34.0208,D,"Walker,",Mr.
+516,517,1,2,female,Young Adult,0,0,10.5,F,"Lemore,",Mrs.
+517,518,0,3,male,Student,0,0,24.15,U,"Ryan,",Mr.
+518,519,1,2,female,Adult,1,0,26.0,U,"Angle,",Mrs.
+519,520,0,3,male,Young Adult,0,0,7.8958,U,"Pavlovic,",Mr.
+520,521,1,1,female,Young Adult,0,0,93.5,B,"Perreault,",Miss.
+521,522,0,3,male,Student,0,0,7.8958,U,"Vovk,",Mr.
+522,523,0,3,male,Student,0,0,7.225,U,"Lahoud,",Mr.
+523,524,1,1,female,Adult,0,1,57.9792,B,"Hippach,",Mrs.
+524,525,0,3,male,Student,0,0,7.2292,U,"Kassem,",Mr.
+525,526,0,3,male,Adult,0,0,7.75,U,"Farrell,",Mr.
+526,527,1,2,female,Adult,0,0,10.5,U,"Ridsdale,",Miss.
+527,528,0,1,male,Student,0,0,221.7792,C,"Farthing,",Mr.
+528,529,0,3,male,Adult,0,0,7.925,U,"Salonen,",Mr.
+529,530,0,2,male,Student,2,1,11.5,U,"Hocking,",Mr.
+530,531,1,2,female,Baby,1,1,26.0,U,"Quick,",Miss.
+531,532,0,3,male,Student,0,0,7.2292,U,"Toufik,",Mr.
+532,533,0,3,male,Teenager,1,1,7.2292,U,"Elias,",Mr.
+533,534,1,3,female,Student,0,2,22.3583,U,"Peter,",Mrs.
+534,535,0,3,female,Young Adult,0,0,8.6625,U,"Cacic,",Miss.
+535,536,1,2,female,Child,0,2,26.25,U,"Hart,",Miss.
+536,537,0,1,male,Adult,0,0,26.55,B,"Butt,",Major.
+537,538,1,1,female,Young Adult,0,0,106.425,U,"LeRoy,",Miss.
+538,539,0,3,male,Student,0,0,14.5,U,"Risien,",Mr.
+539,540,1,1,female,Student,0,2,49.5,B,"Frolicher,",Miss.
+540,541,1,1,female,Adult,0,2,71.0,B,"Crosby,",Miss.
+541,542,0,3,female,Child,4,2,31.275,U,"Andersson,",Miss.
+542,543,0,3,female,Child,4,2,31.275,U,"Andersson,",Miss.
+543,544,1,2,male,Young Adult,1,0,26.0,U,"Beane,",Mr.
+544,545,0,1,male,Adult,1,0,106.425,C,"Douglas,",Mr.
+545,546,0,1,male,Senior,0,0,26.0,U,"Nicholson,",Mr.
+546,547,1,2,female,Student,1,0,26.0,U,"Beane,",Mrs.
+547,548,1,2,male,Student,0,0,13.8625,U,Padro,y
+548,549,0,3,male,Young Adult,1,1,20.525,U,"Goldsmith,",Mr.
+549,550,1,2,male,Child,1,1,36.75,U,"Davies,",Master.
+550,551,1,1,male,Teenager,0,2,110.8833,C,"Thayer,",Mr.
+551,552,0,2,male,Young Adult,0,0,26.0,U,"Sharp,",Mr.
+552,553,0,3,male,Student,0,0,7.8292,U,"O'Brien,",Mr.
+553,554,1,3,male,Student,0,0,7.225,U,"Leeni,",Mr.
+554,555,1,3,female,Student,0,0,7.775,U,"Ohman,",Miss.
+555,556,0,1,male,Senior,0,0,26.55,U,"Wright,",Mr.
+556,557,1,1,female,Adult,1,0,39.6,A,Duff,"Gordon,"
+557,558,0,1,male,Student,0,0,227.525,U,"Robbins,",Mr.
+558,559,1,1,female,Adult,1,1,79.65,E,"Taussig,",Mrs.
+559,560,1,3,female,Adult,1,0,17.4,U,de,"Messemaeker,"
+560,561,0,3,male,Student,0,0,7.75,U,"Morrow,",Mr.
+561,562,0,3,male,Adult,0,0,7.8958,U,"Sivic,",Mr.
+562,563,0,2,male,Young Adult,0,0,13.5,U,"Norman,",Mr.
+563,564,0,3,male,Student,0,0,8.05,U,"Simmons,",Mr.
+564,565,0,3,female,Student,0,0,8.05,U,"Meanwell,",Miss.
+565,566,0,3,male,Student,2,0,24.15,U,"Davies,",Mr.
+566,567,0,3,male,Student,0,0,7.8958,U,"Stoytcheff,",Mr.
+567,568,0,3,female,Young Adult,0,4,21.075,U,"Palsson,",Mrs.
+568,569,0,3,male,Student,0,0,7.2292,U,"Doharr,",Mr.
+569,570,1,3,male,Young Adult,0,0,7.8542,U,"Jonsson,",Mr.
+570,571,1,2,male,Senior,0,0,10.5,U,"Harris,",Mr.
+571,572,1,1,female,Adult,2,0,51.4792,C,"Appleton,",Mrs.
+572,573,1,1,male,Adult,0,0,26.3875,E,"Flynn,",Mr.
+573,574,1,3,female,Student,0,0,7.75,U,"Kelly,",Miss.
+574,575,0,3,male,Teenager,0,0,8.05,U,"Rush,",Mr.
+575,576,0,3,male,Student,0,0,14.5,U,"Patchett,",Mr.
+576,577,1,2,female,Young Adult,0,0,13.0,U,"Garside,",Miss.
+577,578,1,1,female,Adult,1,0,55.9,E,"Silvey,",Mrs.
+578,579,0,3,female,Student,1,0,14.4583,U,"Caram,",Mrs.
+579,580,1,3,male,Young Adult,0,0,7.925,U,"Jussila,",Mr.
+580,581,1,2,female,Student,1,1,30.0,U,"Christy,",Miss.
+581,582,1,1,female,Adult,1,1,110.8833,C,"Thayer,",Mrs.
+582,583,0,2,male,Adult,0,0,26.0,U,"Downton,",Mr.
+583,584,0,1,male,Adult,0,0,40.125,A,"Ross,",Mr.
+584,585,0,3,male,Student,0,0,8.7125,U,"Paulner,",Mr.
+585,586,1,1,female,Teenager,0,2,79.65,E,"Taussig,",Miss.
+586,587,0,2,male,Adult,0,0,15.0,U,"Jarvis,",Mr.
+587,588,1,1,male,Adult,1,1,79.2,B,"Frolicher-Stehli,",Mr.
+588,589,0,3,male,Student,0,0,8.05,U,"Gilinski,",Mr.
+589,590,0,3,male,Student,0,0,8.05,U,"Murdlin,",Mr.
+590,591,0,3,male,Young Adult,0,0,7.125,U,"Rintamaki,",Mr.
+591,592,1,1,female,Adult,1,0,78.2667,D,"Stephenson,",Mrs.
+592,593,0,3,male,Adult,0,0,7.25,U,"Elsbury,",Mr.
+593,594,0,3,female,Student,0,2,7.75,U,"Bourke,",Miss.
+594,595,0,2,male,Adult,1,0,26.0,U,"Chapman,",Mr.
+595,596,0,3,male,Adult,1,1,24.15,U,Van,"Impe,"
+596,597,1,2,female,Student,0,0,33.0,U,"Leitch,",Miss.
+597,598,0,3,male,Adult,0,0,0.0,U,"Johnson,",Mr.
+598,599,0,3,male,Student,0,0,7.225,U,"Boulos,",Mr.
+599,600,1,1,male,Adult,1,0,56.9292,A,Duff,"Gordon,"
+600,601,1,2,female,Student,2,1,27.0,U,"Jacobsohn,",Mrs.
+601,602,0,3,male,Student,0,0,7.8958,U,"Slabenoff,",Mr.
+602,603,0,1,male,Student,0,0,42.4,U,"Harrington,",Mr.
+603,604,0,3,male,Adult,0,0,8.05,U,"Torber,",Mr.
+604,605,1,1,male,Young Adult,0,0,26.55,U,"Homer,",Mr.
+605,606,0,3,male,Adult,1,0,15.55,U,"Lindell,",Mr.
+606,607,0,3,male,Young Adult,0,0,7.8958,U,"Karaic,",Mr.
+607,608,1,1,male,Young Adult,0,0,30.5,U,"Daniel,",Mr.
+608,609,1,2,female,Student,1,2,41.5792,U,"Laroche,",Mrs.
+609,610,1,1,female,Adult,0,0,153.4625,C,"Shutes,",Miss.
+610,611,0,3,female,Adult,1,5,31.275,U,"Andersson,",Mrs.
+611,612,0,3,male,Student,0,0,7.05,U,"Jardin,",Mr.
+612,613,1,3,female,Student,1,0,15.5,U,"Murphy,",Miss.
+613,614,0,3,male,Student,0,0,7.75,U,"Horgan,",Mr.
+614,615,0,3,male,Young Adult,0,0,8.05,U,"Brocklebank,",Mr.
+615,616,1,2,female,Student,1,2,65.0,U,"Herman,",Miss.
+616,617,0,3,male,Young Adult,1,1,14.4,U,"Danbom,",Mr.
+617,618,0,3,female,Young Adult,1,0,16.1,U,"Lobb,",Mrs.
+618,619,1,2,female,Baby,2,1,39.0,F,"Becker,",Miss.
+619,620,0,2,male,Young Adult,0,0,10.5,U,"Gavey,",Mr.
+620,621,0,3,male,Young Adult,1,0,14.4542,U,"Yasbeck,",Mr.
+621,622,1,1,male,Adult,1,0,52.5542,D,"Kimball,",Mr.
+622,623,1,3,male,Student,1,1,15.7417,U,"Nakid,",Mr.
+623,624,0,3,male,Student,0,0,7.8542,U,"Hansen,",Mr.
+624,625,0,3,male,Student,0,0,16.1,U,"Bowen,",Mr.
+625,626,0,1,male,Senior,0,0,32.3208,D,"Sutton,",Mr.
+626,627,0,2,male,Adult,0,0,12.35,U,"Kirkland,",Rev.
+627,628,1,1,female,Student,0,0,77.9583,D,"Longley,",Miss.
+628,629,0,3,male,Young Adult,0,0,7.8958,U,"Bostandyeff,",Mr.
+629,630,0,3,male,Student,0,0,7.7333,U,"O'Connell,",Mr.
+630,631,1,1,male,Senior,0,0,30.0,A,"Barkworth,",Mr.
+631,632,0,3,male,Adult,0,0,7.0542,U,"Lundahl,",Mr.
+632,633,1,1,male,Young Adult,0,0,30.5,B,"Stahelin-Maeglin,",Dr.
+633,634,0,1,male,Student,0,0,0.0,U,"Parr,",Mr.
+634,635,0,3,female,Child,3,2,27.9,U,"Skoog,",Miss.
+635,636,1,2,female,Young Adult,0,0,13.0,U,"Davis,",Miss.
+636,637,0,3,male,Young Adult,0,0,7.925,U,"Leinonen,",Mr.
+637,638,0,2,male,Young Adult,1,1,26.25,U,"Collyer,",Mr.
+638,639,0,3,female,Adult,0,5,39.6875,U,"Panula,",Mrs.
+639,640,0,3,male,Student,1,0,16.1,U,"Thorneycroft,",Mr.
+640,641,0,3,male,Student,0,0,7.8542,U,"Jensen,",Mr.
+641,642,1,1,female,Student,0,0,69.3,B,"Sagesser,",Mlle.
+642,643,0,3,female,Baby,3,2,27.9,U,"Skoog,",Miss.
+643,644,1,3,male,Student,0,0,56.4958,U,"Foo,",Mr.
+644,645,1,3,female,Baby,2,1,19.2583,U,"Baclini,",Miss.
+645,646,1,1,male,Adult,1,0,76.7292,D,"Harper,",Mr.
+646,647,0,3,male,Student,0,0,7.8958,U,"Cor,",Mr.
+647,648,1,1,male,Adult,0,0,35.5,A,"Simonius-Blumer,",Col.
+648,649,0,3,male,Student,0,0,7.55,U,"Willey,",Mr.
+649,650,1,3,female,Student,0,0,7.55,U,"Stanley,",Miss.
+650,651,0,3,male,Student,0,0,7.8958,U,"Mitkoff,",Mr.
+651,652,1,2,female,Teenager,0,1,23.0,U,"Doling,",Miss.
+652,653,0,3,male,Student,0,0,8.4333,U,"Kalvik,",Mr.
+653,654,1,3,female,Student,0,0,7.8292,U,"O'Leary,",Miss.
+654,655,0,3,female,Teenager,0,0,6.75,U,"Hegarty,",Miss.
+655,656,0,2,male,Student,2,0,73.5,U,"Hickman,",Mr.
+656,657,0,3,male,Student,0,0,7.8958,U,"Radeff,",Mr.
+657,658,0,3,female,Young Adult,1,1,15.5,U,"Bourke,",Mrs.
+658,659,0,2,male,Student,0,0,13.0,U,"Eitemiller,",Mr.
+659,660,0,1,male,Adult,0,2,113.275,D,"Newell,",Mr.
+660,661,1,1,male,Adult,2,0,133.65,U,"Frauenthal,",Dr.
+661,662,0,3,male,Adult,0,0,7.225,U,"Badt,",Mr.
+662,663,0,1,male,Adult,0,0,25.5875,E,"Colley,",Mr.
+663,664,0,3,male,Adult,0,0,7.4958,U,"Coleff,",Mr.
+664,665,1,3,male,Student,1,0,7.925,U,"Lindqvist,",Mr.
+665,666,0,2,male,Young Adult,2,0,73.5,U,"Hickman,",Mr.
+666,667,0,2,male,Student,0,0,13.0,U,"Butler,",Mr.
+667,668,0,3,male,Student,0,0,7.775,U,"Rommetvedt,",Mr.
+668,669,0,3,male,Adult,0,0,8.05,U,"Cook,",Mr.
+669,670,1,1,female,Student,1,0,52.0,C,"Taylor,",Mrs.
+670,671,1,2,female,Adult,1,1,39.0,U,"Brown,",Mrs.
+671,672,0,1,male,Young Adult,1,0,52.0,B,"Davidson,",Mr.
+672,673,0,2,male,Senior,0,0,10.5,U,"Mitchell,",Mr.
+673,674,1,2,male,Young Adult,0,0,13.0,U,"Wilhelms,",Mr.
+674,675,0,2,male,Student,0,0,0.0,U,"Watson,",Mr.
+675,676,0,3,male,Teenager,0,0,7.775,U,"Edvardsson,",Mr.
+676,677,0,3,male,Student,0,0,8.05,U,"Sawyer,",Mr.
+677,678,1,3,female,Teenager,0,0,9.8417,U,"Turja,",Miss.
+678,679,0,3,female,Adult,1,6,46.9,U,"Goodwin,",Mrs.
+679,680,1,1,male,Adult,0,1,512.3292,B,"Cardeza,",Mr.
+680,681,0,3,female,Student,0,0,8.1375,U,"Peters,",Miss.
+681,682,1,1,male,Young Adult,0,0,76.7292,D,"Hassab,",Mr.
+682,683,0,3,male,Student,0,0,9.225,U,"Olsvigen,",Mr.
+683,684,0,3,male,Teenager,5,2,46.9,U,"Goodwin,",Mr.
+684,685,0,2,male,Adult,1,1,39.0,U,"Brown,",Mr.
+685,686,0,2,male,Student,1,2,41.5792,U,"Laroche,",Mr.
+686,687,0,3,male,Teenager,4,1,39.6875,U,"Panula,",Mr.
+687,688,0,3,male,Student,0,0,10.1708,U,"Dakic,",Mr.
+688,689,0,3,male,Teenager,0,0,7.7958,U,"Fischer,",Mr.
+689,690,1,1,female,Teenager,0,1,211.3375,B,"Madill,",Miss.
+690,691,1,1,male,Young Adult,1,0,57.0,B,"Dick,",Mr.
+691,692,1,3,female,Baby,0,1,13.4167,U,"Karun,",Miss.
+692,693,1,3,male,Student,0,0,56.4958,U,"Lam,",Mr.
+693,694,0,3,male,Student,0,0,7.225,U,"Saad,",Mr.
+694,695,0,1,male,Adult,0,0,26.55,U,"Weir,",Col.
+695,696,0,2,male,Adult,0,0,13.5,U,"Chapman,",Mr.
+696,697,0,3,male,Adult,0,0,8.05,U,"Kelly,",Mr.
+697,698,1,3,female,Student,0,0,7.7333,U,"Mullens,",Miss.
+698,699,0,1,male,Adult,1,1,110.8833,C,"Thayer,",Mr.
+699,700,0,3,male,Adult,0,0,7.65,F,"Humblen,",Mr.
+700,701,1,1,female,Teenager,1,0,227.525,C,"Astor,",Mrs.
+701,702,1,1,male,Young Adult,0,0,26.2875,E,"Silverthorne,",Mr.
+702,703,0,3,female,Teenager,0,1,14.4542,U,"Barbara,",Miss.
+703,704,0,3,male,Student,0,0,7.7417,U,"Gallagher,",Mr.
+704,705,0,3,male,Young Adult,1,0,7.8542,U,"Hansen,",Mr.
+705,706,0,2,male,Adult,0,0,26.0,U,"Morley,",Mr.
+706,707,1,2,female,Adult,0,0,13.5,U,"Kelly,",Mrs.
+707,708,1,1,male,Adult,0,0,26.2875,E,"Calderhead,",Mr.
+708,709,1,1,female,Student,0,0,151.55,U,"Cleaver,",Miss.
+709,710,1,3,male,Student,1,1,15.2458,U,"Moubarek,",Master.
+710,711,1,1,female,Student,0,0,49.5042,C,"Mayne,",Mlle.
+711,712,0,1,male,Student,0,0,26.55,C,"Klaber,",Mr.
+712,713,1,1,male,Adult,1,0,52.0,C,"Taylor,",Mr.
+713,714,0,3,male,Young Adult,0,0,9.4833,U,"Larsson,",Mr.
+714,715,0,2,male,Adult,0,0,13.0,U,"Greenberg,",Mr.
+715,716,0,3,male,Student,0,0,7.65,F,"Soholt,",Mr.
+716,717,1,1,female,Adult,0,0,227.525,C,"Endres,",Miss.
+717,718,1,2,female,Young Adult,0,0,10.5,E,"Troutt,",Miss.
+718,719,0,3,male,Student,0,0,15.5,U,"McEvoy,",Mr.
+719,720,0,3,male,Young Adult,0,0,7.775,U,"Johnson,",Mr.
+720,721,1,2,female,Child,0,1,33.0,U,"Harper,",Miss.
+721,722,0,3,male,Teenager,1,0,7.0542,U,"Jensen,",Mr.
+722,723,0,2,male,Young Adult,0,0,13.0,U,"Gillespie,",Mr.
+723,724,0,2,male,Adult,0,0,13.0,U,"Hodges,",Mr.
+724,725,1,1,male,Young Adult,1,0,53.1,E,"Chambers,",Mr.
+725,726,0,3,male,Student,0,0,8.6625,U,"Oreskovic,",Mr.
+726,727,1,2,female,Young Adult,3,0,21.0,U,"Renouf,",Mrs.
+727,728,1,3,female,Student,0,0,7.7375,U,"Mannion,",Miss.
+728,729,0,2,male,Student,1,0,26.0,U,"Bryhl,",Mr.
+729,730,0,3,female,Student,1,0,7.925,U,"Ilmakangas,",Miss.
+730,731,1,1,female,Young Adult,0,0,211.3375,B,"Allen,",Miss.
+731,732,0,3,male,Child,0,0,18.7875,U,"Hassan,",Mr.
+732,733,0,2,male,Student,0,0,0.0,U,"Knight,",Mr.
+733,734,0,2,male,Student,0,0,13.0,U,"Berriman,",Mr.
+734,735,0,2,male,Student,0,0,13.0,U,"Troupiansky,",Mr.
+735,736,0,3,male,Young Adult,0,0,16.1,U,"Williams,",Mr.
+736,737,0,3,female,Adult,1,3,34.375,U,"Ford,",Mrs.
+737,738,1,1,male,Young Adult,0,0,512.3292,B,"Lesurer,",Mr.
+738,739,0,3,male,Student,0,0,7.8958,U,"Ivanoff,",Mr.
+739,740,0,3,male,Student,0,0,7.8958,U,"Nankoff,",Mr.
+740,741,1,1,male,Student,0,0,30.0,D,"Hawksford,",Mr.
+741,742,0,1,male,Adult,1,0,78.85,C,"Cavendish,",Mr.
+742,743,1,1,female,Student,2,2,262.375,B,"Ryerson,",Miss.
+743,744,0,3,male,Student,1,0,16.1,U,"McNamee,",Mr.
+744,745,1,3,male,Young Adult,0,0,7.925,U,"Stranden,",Mr.
+745,746,0,1,male,Senior,1,1,71.0,B,"Crosby,",Capt.
+746,747,0,3,male,Teenager,1,1,20.25,U,"Abbott,",Mr.
+747,748,1,2,female,Young Adult,0,0,13.0,U,"Sinkkonen,",Miss.
+748,749,0,1,male,Student,1,0,53.1,D,"Marvin,",Mr.
+749,750,0,3,male,Young Adult,0,0,7.75,U,"Connaghton,",Mr.
+750,751,1,2,female,Baby,1,1,23.0,U,"Wells,",Miss.
+751,752,1,3,male,Child,0,1,12.475,E,"Moor,",Master.
+752,753,0,3,male,Young Adult,0,0,9.5,U,Vande,"Velde,"
+753,754,0,3,male,Student,0,0,7.8958,U,"Jonkoff,",Mr.
+754,755,1,2,female,Adult,1,2,65.0,U,"Herman,",Mrs.
+755,756,1,2,male,Baby,1,1,14.5,U,"Hamalainen,",Master.
+756,757,0,3,male,Young Adult,0,0,7.7958,U,"Carlsson,",Mr.
+757,758,0,2,male,Teenager,0,0,11.5,U,"Bailey,",Mr.
+758,759,0,3,male,Young Adult,0,0,8.05,U,"Theobald,",Mr.
+759,760,1,1,female,Young Adult,0,0,86.5,B,"Rothes,",the
+760,761,0,3,male,Student,0,0,14.5,U,"Garfirth,",Mr.
+761,762,0,3,male,Adult,0,0,7.125,U,"Nirva,",Mr.
+762,763,1,3,male,Student,0,0,7.2292,U,"Barah,",Mr.
+763,764,1,1,female,Adult,1,2,120.0,B,"Carter,",Mrs.
+764,765,0,3,male,Teenager,0,0,7.775,U,"Eklund,",Mr.
+765,766,1,1,female,Adult,1,0,77.9583,D,"Hogeboom,",Mrs.
+766,767,0,1,male,Student,0,0,39.6,U,"Brewe,",Dr.
+767,768,0,3,female,Young Adult,0,0,7.75,U,"Mangan,",Miss.
+768,769,0,3,male,Student,1,0,24.15,U,"Moran,",Mr.
+769,770,0,3,male,Young Adult,0,0,8.3625,U,"Gronnestad,",Mr.
+770,771,0,3,male,Student,0,0,9.5,U,"Lievens,",Mr.
+771,772,0,3,male,Adult,0,0,7.8542,U,"Jensen,",Mr.
+772,773,0,2,female,Adult,0,0,10.5,E,"Mack,",Mrs.
+773,774,0,3,male,Student,0,0,7.225,U,"Elias,",Mr.
+774,775,1,2,female,Adult,1,3,23.0,U,"Hocking,",Mrs.
+775,776,0,3,male,Teenager,0,0,7.75,U,"Myhrman,",Mr.
+776,777,0,3,male,Student,0,0,7.75,F,"Tobin,",Mr.
+777,778,1,3,female,Baby,0,0,12.475,U,"Emanuel,",Miss.
+778,779,0,3,male,Student,0,0,7.7375,U,"Kilgannon,",Mr.
+779,780,1,1,female,Adult,0,1,211.3375,B,"Robert,",Mrs.
+780,781,1,3,female,Teenager,0,0,7.2292,U,"Ayoub,",Miss.
+781,782,1,1,female,Teenager,1,0,57.0,B,"Dick,",Mrs.
+782,783,0,1,male,Young Adult,0,0,30.0,D,"Long,",Mr.
+783,784,0,3,male,Student,1,2,23.45,U,"Johnston,",Mr.
+784,785,0,3,male,Student,0,0,7.05,U,"Ali,",Mr.
+785,786,0,3,male,Student,0,0,7.25,U,"Harmer,",Mr.
+786,787,1,3,female,Teenager,0,0,7.4958,U,"Sjoblom,",Miss.
+787,788,0,3,male,Child,4,1,29.125,U,"Rice,",Master.
+788,789,1,3,male,Baby,1,2,20.575,U,"Dean,",Master.
+789,790,0,1,male,Adult,0,0,79.2,B,"Guggenheim,",Mr.
+790,791,0,3,male,Student,0,0,7.75,U,"Keane,",Mr.
+791,792,0,2,male,Teenager,0,0,26.0,U,"Gaskell,",Mr.
+792,793,0,3,female,Student,8,2,69.55,U,"Sage,",Miss.
+793,794,0,1,male,Student,0,0,30.6958,U,"Hoyt,",Mr.
+794,795,0,3,male,Student,0,0,7.8958,U,"Dantcheff,",Mr.
+795,796,0,2,male,Adult,0,0,13.0,U,"Otter,",Mr.
+796,797,1,1,female,Adult,0,0,25.9292,D,"Leader,",Dr.
+797,798,1,3,female,Young Adult,0,0,8.6833,U,"Osman,",Mrs.
+798,799,0,3,male,Young Adult,0,0,7.2292,U,Ibrahim,"Shawah,"
+799,800,0,3,female,Young Adult,1,1,24.15,U,Van,"Impe,"
+800,801,0,2,male,Young Adult,0,0,13.0,U,"Ponesell,",Mr.
+801,802,1,2,female,Young Adult,1,1,26.25,U,"Collyer,",Mrs.
+802,803,1,1,male,Child,1,2,120.0,B,"Carter,",Master.
+803,804,1,3,male,Baby,0,1,8.5167,U,"Thomas,",Master.
+804,805,1,3,male,Young Adult,0,0,6.975,U,"Hedman,",Mr.
+805,806,0,3,male,Young Adult,0,0,7.775,U,"Johansson,",Mr.
+806,807,0,1,male,Adult,0,0,0.0,A,"Andrews,",Mr.
+807,808,0,3,female,Teenager,0,0,7.775,U,"Pettersson,",Miss.
+808,809,0,2,male,Adult,0,0,13.0,U,"Meyer,",Mr.
+809,810,1,1,female,Young Adult,1,0,53.1,E,"Chambers,",Mrs.
+810,811,0,3,male,Young Adult,0,0,7.8875,U,"Alexander,",Mr.
+811,812,0,3,male,Adult,0,0,24.15,U,"Lester,",Mr.
+812,813,0,2,male,Young Adult,0,0,10.5,U,"Slemen,",Mr.
+813,814,0,3,female,Child,4,2,31.275,U,"Andersson,",Miss.
+814,815,0,3,male,Young Adult,0,0,8.05,U,"Tomlin,",Mr.
+815,816,0,1,male,Student,0,0,0.0,B,"Fry,",Mr.
+816,817,0,3,female,Student,0,0,7.925,U,"Heininen,",Miss.
+817,818,0,2,male,Young Adult,1,1,37.0042,U,"Mallet,",Mr.
+818,819,0,3,male,Adult,0,0,6.45,U,"Holm,",Mr.
+819,820,0,3,male,Child,3,2,27.9,U,"Skoog,",Master.
+820,821,1,1,female,Adult,1,1,93.5,B,"Hays,",Mrs.
+821,822,1,3,male,Young Adult,0,0,8.6625,U,"Lulic,",Mr.
+822,823,0,1,male,Adult,0,0,0.0,U,"Reuchlin,",Jonkheer.
+823,824,1,3,female,Young Adult,0,1,12.475,E,"Moor,",Mrs.
+824,825,0,3,male,Baby,4,1,39.6875,U,"Panula,",Master.
+825,826,0,3,male,Student,0,0,6.95,U,"Flynn,",Mr.
+826,827,0,3,male,Student,0,0,56.4958,U,"Lam,",Mr.
+827,828,1,2,male,Baby,0,2,37.0042,U,"Mallet,",Master.
+828,829,1,3,male,Student,0,0,7.75,U,"McCormack,",Mr.
+829,830,1,1,female,Senior,0,0,80.0,B,"Stone,",Mrs.
+830,831,1,3,female,Teenager,1,0,14.4542,U,"Yasbeck,",Mrs.
+831,832,1,2,male,Baby,1,1,18.75,U,"Richards,",Master.
+832,833,0,3,male,Student,0,0,7.2292,U,"Saad,",Mr.
+833,834,0,3,male,Student,0,0,7.8542,U,"Augustsson,",Mr.
+834,835,0,3,male,Teenager,0,0,8.3,U,"Allum,",Mr.
+835,836,1,1,female,Adult,1,1,83.1583,E,"Compton,",Miss.
+836,837,0,3,male,Student,0,0,8.6625,U,"Pasic,",Mr.
+837,838,0,3,male,Student,0,0,8.05,U,"Sirota,",Mr.
+838,839,1,3,male,Young Adult,0,0,56.4958,U,"Chip,",Mr.
+839,840,1,1,male,Student,0,0,29.7,C,"Marechal,",Mr.
+840,841,0,3,male,Student,0,0,7.925,U,"Alhomaki,",Mr.
+841,842,0,2,male,Teenager,0,0,10.5,U,"Mudd,",Mr.
+842,843,1,1,female,Young Adult,0,0,31.0,U,"Serepeca,",Miss.
+843,844,0,3,male,Young Adult,0,0,6.4375,U,"Lemberopolous,",Mr.
+844,845,0,3,male,Teenager,0,0,8.6625,U,"Culumovic,",Mr.
+845,846,0,3,male,Adult,0,0,7.55,U,"Abbing,",Mr.
+846,847,0,3,male,Student,8,2,69.55,U,"Sage,",Mr.
+847,848,0,3,male,Young Adult,0,0,7.8958,U,"Markoff,",Mr.
+848,849,0,2,male,Young Adult,0,1,33.0,U,"Harper,",Rev.
+849,850,1,1,female,Student,1,0,89.1042,C,"Goldenberg,",Mrs.
+850,851,0,3,male,Baby,4,2,31.275,U,"Andersson,",Master.
+851,852,0,3,male,Senior,0,0,7.775,U,"Svensson,",Mr.
+852,853,0,3,female,Child,1,1,15.2458,U,"Boulos,",Miss.
+853,854,1,1,female,Teenager,0,1,39.4,D,"Lines,",Miss.
+854,855,0,2,female,Adult,1,0,26.0,U,"Carter,",Mrs.
+855,856,1,3,female,Teenager,0,1,9.35,U,"Aks,",Mrs.
+856,857,1,1,female,Adult,1,1,164.8667,U,"Wick,",Mrs.
+857,858,1,1,male,Adult,0,0,26.55,E,"Daly,",Mr.
+858,859,1,3,female,Student,0,3,19.2583,U,"Baclini,",Mrs.
+859,860,0,3,male,Student,0,0,7.2292,U,"Razi,",Mr.
+860,861,0,3,male,Adult,2,0,14.1083,U,"Hansen,",Mr.
+861,862,0,2,male,Student,1,0,11.5,U,"Giles,",Mr.
+862,863,1,1,female,Adult,0,0,25.9292,D,"Swift,",Mrs.
+863,864,0,3,female,Student,8,2,69.55,U,"Sage,",Miss.
+864,865,0,2,male,Student,0,0,13.0,U,"Gill,",Mr.
+865,866,1,2,female,Adult,0,0,13.0,U,"Bystrom,",Mrs.
+866,867,1,2,female,Young Adult,1,0,13.8583,U,Duran,y
+867,868,0,1,male,Young Adult,0,0,50.4958,A,"Roebling,",Mr.
+868,869,0,3,male,Student,0,0,9.5,U,van,"Melkebeke,"
+869,870,1,3,male,Baby,1,1,11.1333,U,"Johnson,",Master.
+870,871,0,3,male,Young Adult,0,0,7.8958,U,"Balkic,",Mr.
+871,872,1,1,female,Adult,1,1,52.5542,D,"Beckwith,",Mrs.
+872,873,0,1,male,Young Adult,0,0,5.0,B,"Carlsson,",Mr.
+873,874,0,3,male,Adult,0,0,9.0,U,Vander,"Cruyssen,"
+874,875,1,2,female,Young Adult,1,0,24.0,U,"Abelson,",Mrs.
+875,876,1,3,female,Teenager,0,0,7.225,U,"Najib,",Miss.
+876,877,0,3,male,Student,0,0,9.8458,U,"Gustafsson,",Mr.
+877,878,0,3,male,Student,0,0,7.8958,U,"Petroff,",Mr.
+878,879,0,3,male,Student,0,0,7.8958,U,"Laleff,",Mr.
+879,880,1,1,female,Adult,0,1,83.1583,C,"Potter,",Mrs.
+880,881,1,2,female,Student,0,1,26.0,U,"Shelley,",Mrs.
+881,882,0,3,male,Young Adult,0,0,7.8958,U,"Markun,",Mr.
+882,883,0,3,female,Student,0,0,10.5167,U,"Dahlberg,",Miss.
+883,884,0,2,male,Young Adult,0,0,10.5,U,"Banfield,",Mr.
+884,885,0,3,male,Student,0,0,7.05,U,"Sutehall,",Mr.
+885,886,0,3,female,Adult,0,5,29.125,U,"Rice,",Mrs.
+886,887,0,2,male,Young Adult,0,0,13.0,U,"Montvila,",Rev.
+887,888,1,1,female,Student,0,0,30.0,B,"Graham,",Miss.
+888,889,0,3,female,Student,1,2,23.45,U,"Johnston,",Miss.
+889,890,1,1,male,Young Adult,0,0,30.0,C,"Behr,",Mr.
+890,891,0,3,male,Young Adult,0,0,7.75,U,"Dooley,",Mr.
